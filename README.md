@@ -52,12 +52,27 @@ d/dt sin = cos
 ---
 ## Trabalho 02 - Second Exercise
 - Least squares problem
+  ![Untitled](second_exercise/least_squares.png)
 - Linear solving of systems
 - Polynomial Interpolation
+  ![Untitled](second_exercise/polynomial_interpolation.png)
 ---
 ## Trabalho 03 - Third Exercise
-- LP Problem
+- LP Problem of optimization
+
+### Results:
+```Status: Optimal
+Number_of_employees_that_work_on_friday = 2.0
+Number_of_employees_that_work_on_monday = 8.0
+Number_of_employees_that_work_on_saturday = 3.0
+Number_of_employees_that_work_on_sunday = 2.0
+Number_of_employees_that_work_on_thursday = 5.0
+Number_of_employees_that_work_on_tuesday = 0.0
+Number_of_employees_that_work_on_wednesday = 3.0
+Total Number of Employees =  23.0
+```
 
 ---
 
 ## Diferenças Finitas
+- Wikipedia: [Finite difference](https://en.wikipedia.org/wiki/Finite_difference)
