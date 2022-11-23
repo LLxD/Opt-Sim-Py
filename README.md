@@ -47,8 +47,6 @@ d²/dt² f(t) = d/dt(d/dt f(t))
 
 d/dt sin = cos
 
-[Trabalhos - Otimização e Simulação](https://www.notion.so/Trabalhos-Otimiza-o-e-Simula-o-bf0f0fd1458746179bd0f0234fe384bf)
-
 ---
 ## Trabalho 02 - Second Exercise
 - Least squares problem
