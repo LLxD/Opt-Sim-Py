@@ -43,9 +43,16 @@ plt.show()
 ---
 ## Trabalho 01 - First Exercise
 
+first derivative
+dfdt(f,t) = (f(t+h) - f(t-h))/(2*h)
+![Untitled](first_exercise/deriv.png)
+
+second derivative
 d²/dt² f(t) = d/dt(d/dt f(t))
 
 d/dt sin = cos
+
+![Untitled](first_exercise/deriv2.png)
 
 ---
 ## Trabalho 02 - Second Exercise
@@ -60,13 +67,13 @@ d/dt sin = cos
 
 ### Results:
 ```Status: Optimal
-Number_of_employees_that_work_on_friday = 2.0
 Number_of_employees_that_work_on_monday = 8.0
-Number_of_employees_that_work_on_saturday = 3.0
-Number_of_employees_that_work_on_sunday = 2.0
-Number_of_employees_that_work_on_thursday = 5.0
 Number_of_employees_that_work_on_tuesday = 0.0
 Number_of_employees_that_work_on_wednesday = 3.0
+Number_of_employees_that_work_on_thursday = 5.0
+Number_of_employees_that_work_on_friday = 2.0
+Number_of_employees_that_work_on_saturday = 3.0
+Number_of_employees_that_work_on_sunday = 2.0
 Total Number of Employees =  23.0
 ```
 
