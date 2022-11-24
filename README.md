@@ -45,22 +45,22 @@ plt.show()
 
 first derivative
 dfdt(f,t) = (f(t+h) - f(t-h))/(2*h)
-![Untitled](first_exercise/deriv.png)
+![Untitled](1_exercise/deriv.png)
 
 second derivative
 d²/dt² f(t) = d/dt(d/dt f(t))
 
 d/dt sin = cos
 
-![Untitled](first_exercise/deriv2.png)
+![Untitled](1_exercise/deriv2.png)
 
 ---
 ## Trabalho 02 - Second Exercise
 - Least squares problem
-  ![Untitled](second_exercise/least_squares.png)
+  ![Untitled](2_exercise/least_squares.png)
 - Linear solving of systems
 - Polynomial Interpolation
-  ![Untitled](second_exercise/polynomial_interpolation.png)
+  ![Untitled](2_exercise/polynomial_interpolation.png)
 ---
 ## Trabalho 03 - Third Exercise
 - LP Problem of optimization
