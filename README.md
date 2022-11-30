@@ -96,3 +96,7 @@ Total Number of Employees =  23.0
 ### Box-muller Exercise
 
 ![Untitled](5_exercise/box_muller.png)
+
+## Monte Carlo
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
