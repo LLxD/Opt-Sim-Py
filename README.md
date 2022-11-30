@@ -81,3 +81,18 @@ Total Number of Employees =  23.0
 
 ## Diferenças Finitas
 - Wikipedia: [Finite difference](https://en.wikipedia.org/wiki/Finite_difference)
+
+## Aleatoriedade
+- Imprevisibilidade
+- Retorno à média (Central Limit Theorem) - [Wikipedia](https://en.wikipedia.org/wiki/Central_limit_theorem)
+- É possível identificar uma distribuição de probabilidade
+- Distribuição normal (Gaussiana) - [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
+- LCG (Linear Congruential Generator) - [Wikipedia](https://en.wikipedia.org/wiki/Linear_congruential_generator)
+- Mersenne Twister - [Wikipedia](https://en.wikipedia.org/wiki/Mersenne_Twister)
+- [Random.org](https://www.random.org/)
+- Box-Muller - [Wikipedia](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform)
+- Big Crunch - [Wikipedia](https://en.wikipedia.org/wiki/Big_Crunch)
+
+### Box-muller Exercise
+
+![Untitled](5_exercise/box_muller.png)
