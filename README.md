@@ -100,3 +100,8 @@ Total Number of Employees =  23.0
 ## Monte Carlo
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+
+### Gambler's Ruin
+
+![Untitled](6_exercise/gambler_ruin.jpg)
+Se o jogador tem menos de 50% de chance de ganhar, ele não deve apostar.
