@@ -105,3 +105,7 @@ Total Number of Employees =  23.0
 
 ![Untitled](6_exercise/gambler_ruin.jpg)
 Se o jogador tem menos de 50% de chance de ganhar, ele não deve apostar.
+
+### Markov Chain
+Uma forma de usar estados não-determinísticos para conseguir probabilidades de mudanças com base em dados históricos.
+É uma simulação estocástica, então, é necessário simular várias vezes e fazer uma média do valor de interesse.
